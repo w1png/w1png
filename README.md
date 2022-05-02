@@ -7,5 +7,5 @@
 
 - 📫 How to reach me: 
   - Email: **wonepng@gmail.com**
-  - Discord: https://discord.com/users/462281985134428170
-  - Telegram: https://t.me/w1png
+  - Discord: <a href="https://discord.com/users/462281985134428170">**Click**</a>
+  - Telegram: <a href="https://t.me/w1png">**Click**</a>
