@@ -5,7 +5,4 @@
 
 - 💬 Ask me about: **Discord bots in Typescript and Telegram bots in Python.**  
 
-- 📫 How to reach me: 
-  - Email: **wonepng@gmail.com**
-  - Discord: <a href="https://discord.com/users/462281985134428170">**Click**</a>
-  - Telegram: <a href="https://t.me/w1png">**Click**</a>
+- 📫 How to reach me: <a href="mailto:wonepng@gmail.com">**Email**</a>; <a href="https://discord.com/users/462281985134428170">**Discord**</a>; <a href="https://t.me/w1png">**Telegram**</a>
