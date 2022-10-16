@@ -16,15 +16,15 @@
 
 
 ### ✨ My skills:
-- Making websites using  **React**, **Tailwind**, **Flowbite**  and **Go** *(I mainly use [go-gin](https://github.com/gin-gonic/gin))*
+- Making websites using  **React**, **Tailwind**, **Flowbite**  and **Go** *(I mainly use [go-gin](https://github.com/gin-gonic/gin))*<br>
 ![My Skills](https://skills.thijs.gg/icons?i=go,react,tailwind&theme=dark)
-- Making Discord bots using **NodeJS + Typescript**
+- Making Discord bots using **NodeJS + Typescript**<br>
 ![My Skills](https://skills.thijs.gg/icons?i=nodejs,typescript&theme=dark)
-- Making Telegram bots using **Python + aiogram**
+- Making Telegram bots using **Python + aiogram**<br>
 ![My Skills](https://skills.thijs.gg/icons?i=python,tailwind&theme=dark)
-- I use **PostgreSQL** as a Database in all most of my projects
+- I use **PostgreSQL** as a Database in all most of my projects<br>
  ![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=dark)
- - Using **Fedora linux** on all my machines
+ - Using **Fedora linux** on all my machines<br>
  ![My Skills](https://skills.thijs.gg/icons?i=linux,neovim,bash&theme=dark)
  <hr>
 
