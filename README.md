@@ -10,7 +10,7 @@
 <hr width=60%>
 <h3>Hi 👋, I'm Denis Smirnov (aka w1png)</h3>  
 <h5>I am a computer science college student and a software developer.</h5>
-<a href="w1png.github.io">My portfolio website</a>
+<a href="https://w1png.github.io">My portfolio website</a>
 <hr>
 </div>
 
