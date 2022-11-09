@@ -21,7 +21,7 @@
 - Making Discord bots using **NodeJS + Typescript**<br>
 ![My Skills](https://skills.thijs.gg/icons?i=nodejs,typescript&theme=dark)
 - Making Telegram bots using **Python + aiogram**<br>
-![My Skills](https://skills.thijs.gg/icons?i=python,tailwind&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=python&theme=dark)
 - I use **PostgreSQL** as a Database in all most of my projects<br>
  ![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=dark)
  - Using **Fedora linux** on all my machines<br>
