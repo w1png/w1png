@@ -24,7 +24,7 @@
 ![My Skills](https://skills.thijs.gg/icons?i=python&theme=dark)
 - I use **PostgreSQL** as a Database in all most of my projects<br>
  ![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=dark)
- - Using **Fedora linux** on all my machines<br>
+ - Using **Arch Linux** with **bspwm** on all my machines<br>
  ![My Skills](https://skills.thijs.gg/icons?i=linux,neovim,bash&theme=dark)
  <hr>
 
