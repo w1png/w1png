@@ -22,11 +22,12 @@
 ![My Skills](https://skills.thijs.gg/icons?i=nodejs,typescript&theme=dark)
 - Making Telegram bots using **Python + aiogram**<br>
 ![My Skills](https://skills.thijs.gg/icons?i=python&theme=dark)
-- I use **PostgreSQL** as a Database in all most of my projects<br>
+- Unity game development<br>
+![My Skills](https://skills.thijs.gg/icons?i=unity&theme=dark)
+- I use **PostgreSQL** as a Database in most of my projects<br>
  ![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=dark)
- - Using **Arch Linux** with **bspwm** on all my machines<br>
+- Love Unix <br>
  ![My Skills](https://skills.thijs.gg/icons?i=linux,neovim,bash&theme=dark)
- <hr>
 
 ### 👨‍💻 About me:
 - 🌱 I am **17** years old
