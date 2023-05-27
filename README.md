@@ -30,7 +30,7 @@
  ![My Skills](https://skills.thijs.gg/icons?i=linux,neovim,bash&theme=dark)
 
 ### 👨‍💻 About me:
-- 🌱 I am **17** years old
+- 🌱 I am **18** years old
 - 🇷🇺 I live in **Moscow, Russia**.
 
 <hr>
