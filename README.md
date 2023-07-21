@@ -10,30 +10,12 @@
 <hr width=60%>
 <h3>Hi 👋, I'm Denis Smirnov (aka w1png)</h3>  
 <h5>I am a computer science college student and a software developer.</h5>
-<a href="https://w1png.github.io">My portfolio website</a>
 <hr>
 </div>
-
-
-### ✨ My skills:
-- Making websites using  **React**, **Tailwind**, **Flowbite**  and **Go** *(I mainly use [go-gin](https://github.com/gin-gonic/gin))*<br>
-![My Skills](https://skills.thijs.gg/icons?i=go,react,tailwind&theme=dark)
-- Making Discord bots using **NodeJS + Typescript**<br>
-![My Skills](https://skills.thijs.gg/icons?i=nodejs,typescript&theme=dark)
-- Making Telegram bots using **Python + aiogram**<br>
-![My Skills](https://skills.thijs.gg/icons?i=python&theme=dark)
-- Unity game development<br>
-![My Skills](https://skills.thijs.gg/icons?i=unity&theme=dark)
-- I use **PostgreSQL** as a Database in most of my projects<br>
- ![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=dark)
-- Love Unix <br>
- ![My Skills](https://skills.thijs.gg/icons?i=linux,neovim,bash&theme=dark)
 
 ### 👨‍💻 About me:
 - 🌱 I am **18** years old
 - 🇷🇺 I live in **Moscow, Russia**.
-
-<hr>
 
 <h3 align="center"> Stats</h3>
 
