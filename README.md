@@ -14,7 +14,7 @@
 </div>
 
 ### 👨‍💻 About me:
-- 🌱 I am **18** years old
+- 🌱 I am **19** years old
 - 🇷🇺 I live in **Moscow, Russia**.
 
 <h3 align="center"> Stats</h3>
